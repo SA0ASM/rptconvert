@@ -1,0 +1,10 @@
+200;SM0 Skärgård 2m;Analogue;145.2250;145.2250;12.5;;;;;;;;;91.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+201;SM0 DMR Anrop 2m;Digital;145.3750;145.3750;;0;1;None;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;;
+202;SM0 Lokaltraf 2m;Analogue;145.4000;145.4000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+203;Simplex 145,425;Analogue;145.4250;145.4250;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+204;SM0 FM Anrop 2m;Analogue;145.4500;145.4500;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+205;Simplex 145,475;Analogue;145.4750;145.4750;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+206;SM0 Rix Anrop 2m;Analogue;145.5000;145.5000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+207;SM0 DMR Anrop 70;Digital;433.45000;433.45000;;0;1;None;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;;
+208;Simplex 433,475;Analogue;433.4750;433.4750;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+209;SM0 FM Anrop 70;Analogue;433.5000;433.5000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;

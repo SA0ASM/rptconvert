@@ -1,0 +1,320 @@
+Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kHz);Colour Code;Timeslot;Contact;TG List;DMR ID;TS1_TA_Tx;TS2_TA_Tx ID;RX Tone;TX Tone;Squelch;Power;Rx Only;Zone Skip;All Skip;TOT;VOX;No Beep;No Eco;APRS;Latitude;Longitude
+200;SM0 Skärgård 2m;Analogue;145.2250;145.2250;12.5;;;;;;;;;91.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+201;SM0 DMR Anrop 2m;Digital;145.3750;145.3750;;0;1;None;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;;
+202;SM0 Lokaltraf 2m;Analogue;145.4000;145.4000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+203;Simplex 145,425;Analogue;145.4250;145.4250;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+204;SM0 FM Anrop 2m;Analogue;145.4500;145.4500;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+205;Simplex 145,475;Analogue;145.4750;145.4750;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+206;SM0 Rix Anrop 2m;Analogue;145.5000;145.5000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+207;SM0 DMR Anrop 70;Digital;433.45000;433.45000;;0;1;None;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;;
+208;Simplex 433,475;Analogue;433.4750;433.4750;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+209;SM0 FM Anrop 70;Analogue;433.5000;433.5000;12.5;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+501;SL0ZS Västberga;Analogue;145.6000;145.0000;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,298;17,99
+502;SK0RDZ Brottby 2;Analogue;145.6500;145.0500;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,5753;18,2634
+503;SM0MMO Tullinge;Analogue;145.6625;145.0625;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,2255;17,9413
+504;SK0PQ Kista 2m;Analogue;145.6750;145.0750;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,4;17,95
+505;SK0QO Haninge 2m;Analogue;145.6875;145.0875;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,1704;18,1663
+506;SK0MG Södertälje;Analogue;145.7000;145.1000;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,1744;17,5997
+507;SK0BJ Nynäshamn;Analogue;145.7125;145.1125;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;58,9055;17,9402
+508;SK0NN Stockholm;Analogue;145.7250;145.1250;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,32;18,07
+509;SK0BJ NynäshamnA;Analogue;145.7375;145.1375;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;58,8278;17,8498
+510;SM0OFV Solna 2m;Analogue;145.7625;145.1625;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,354;17,97
+511;SK0MM Ingarö 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,2602;18,5297
+512;SK0RYG_Stockholm;Analogue;145.7875;145.1875;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,4908;18,2969
+513;SK0NN Haninge;Analogue;434.5375;432.5375;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,2404;18,2061
+514;SK0QO Bagarmosse;Analogue;434.5750;432.5750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,2787;18,1257
+515;SK0BJ Huddinge 7;Analogue;434.6000;432.6000;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,2134;17,9423
+516;SK0CT Kista 70cm;Analogue;434.6250;432.6250;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,4;17,95
+517;SK0BJ.NynäshamnA;Analogue;434.6500;432.6500;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,2134;17,9423
+518;SK0CT Kista;Analogue;434.6625;432.6625;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,4;17,95
+519;SK0RYG U.Väsby;Analogue;434.6750;432.6750;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,5236;17,9638
+520;SK0MG Haninge 70;Analogue;434.6875;432.6875;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,1004;18,2481
+521;SK0MT Vallentuna;Analogue;434.7000;432.7000;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,5043;18,1373
+522;SK0BJ_NynäshamnA;Analogue;434.7125;432.7125;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;58,9055;17,9402
+523;SM0YIX Söder 70c;Analogue;434.7250;432.7250;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,303;18,085
+524;SK0QO Haninge 70;Analogue;434.7500;432.7500;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,1704;18,1663
+525;SK0NN Haninge 70;Analogue;434.7750;432.7750;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,1769;18,1226
+526;SA0AZT Brottby 7;Analogue;434.8000;432.8000;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,5041;18,1378
+527;SK0ZA Solna 70cm;Analogue;434.8500;432.8500;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,354;17,97
+528;SK0YZ Vallentuna;Analogue;434.8625;432.8625;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,521;18,125
+529;SL0ZS VästbergaA;Analogue;434.9000;432.9000;12.5;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,298;17,99
+530;SK1RGU Endre 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;218.1;218.1;Disabled;Master;No;No;No;0;Off;No;No;None;57,6085;18,4743
+531;SL1ZXK Slite 70c;Analogue;434.6000;432.6000;12.5;;;;;;;;218.1;218.1;Disabled;Master;No;No;No;0;Off;No;No;None;57,7186;18,7851
+532;SK2RMD Sorsele 2;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;65,5326;17,5396
+533;SK2AZ Piteå 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,3095;21,3272
+534;SK2RYI Vindeln 2;Analogue;145.6250;145.0250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;64,6458;20,2917
+535;SK2RFR Kiruna 2m;Analogue;145.6250;145.0250;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;67,8542;20,2917
+536;SK2CI Boden 2m;Analogue;145.6250;145.0250;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,7869;21,526
+537;SK2RLJ Umeå 2m;Analogue;145.6500;145.0500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,8412;20,2099
+538;SK2DR Luleå 2m;Analogue;145.6500;145.0500;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,6141;22,2024
+539;SM2KOT Kristineb;Analogue;145.6750;145.0750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;65,0638;18,6151
+540;SK2RWJ Älvsbyn 2;Analogue;145.6750;145.0750;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,6771;20,9928
+541;SK2AU Arjeplog 2;Analogue;145.7000;145.1000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;66,11;17,9312
+542;SK2AU Skellefteå;Analogue;145.7000;145.1000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;64,774;20,95
+543;SK2RIU Vännäs 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,9;19,81
+544;SK2RMR Storuman;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;65,097;17,14
+545;SK2LY Lycksele 2;Analogue;145.7750;145.1750;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;64,357;18,4484
+546;SK2RME Piteå 70c;Analogue;434.6000;432.6000;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,3125;21,4959
+547;SJ2W Skellefteå;Analogue;434.6750;432.6750;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;64,7672;20,9771
+548;SK2RIU Vännäs 70;Analogue;434.7250;432.7250;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;63,9;19,81
+549;SK2RMR StorumanA;Analogue;434.7500;432.7500;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;65,097;17,14
+550;SM2KXX Lycksele;Analogue;434.7750;433.1750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;64,5994;18,6541
+551;SK2RFR Kiruna C;Analogue;434.8250;432.8250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;67,8321;20,1871
+552;SJ2W Burträsk 70;Analogue;434.9500;432.9500;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;64,5241;20,6118
+553;SK3RMX Hoting 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;64,235;15,9302
+554;SK3RQE  2m;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,8972;17,1506
+555;SK3YZ Forsa 2m;Analogue;145.6125;145.0125;12.5;;;;;;;;141.3;141.3;Disabled;Master;No;No;No;0;Off;No;No;None;61,6666;16,8333
+556;SK3MF Nordingrå;Analogue;145.6250;145.0250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;62,9375;18,4583
+557;SK3RQC Vemdalen;Analogue;145.6250;145.0250;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;62,4428;13,8667
+558;SK3EK Sollefteå;Analogue;145.6500;145.0500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,1654;17,2771
+559;SK3RET Bollnäs 2;Analogue;145.6500;145.0500;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;61,485;16,21
+560;SA3EJX Forsa 2m;Analogue;145.6750;145.0750;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;61,688;16,875
+561;SK3RIN Borgsjö 2;Analogue;145.7000;145.1000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;62,546;15,9105
+562;SK3GK Sandviken;Analogue;145.7000;145.1000;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;60,75;16,49
+563;SK3RFG Sundsvall;Analogue;145.7250;145.1250;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;62,3958;17,4583
+564;SK3RNJ Åre 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,427;13,0855
+565;SK3RYK Söderhamn;Analogue;145.7500;145.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,2969;17,0864
+566;SK3JR Östersund;Analogue;145.7500;145.1500;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;63,1898;14,7668
+567;SM3VAC Nyland 2m;Analogue;145.7500;145.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,01;17,74
+568;SK3RKL Örnskölds;Analogue;145.7750;145.1750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,383;18,5564
+569;SK3JR ÖstersundA;Analogue;145.7875;145.1875;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;63,1047;14,6022
+570;SM3XRJ Kramfors;Analogue;434.6000;432.6000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;62,9275;17,7652
+571;SM3LEI Årsunda 7;Analogue;434.6500;434.6500;12.5;;;;;;;;88.5;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;60,5164;16,7344
+572;SK3RQE Forsa 70c;Analogue;434.6750;432.6750;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;61,688;16,875
+573;SL3ZB Härnösand;Analogue;434.7250;432.7250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;62,6431;17,9583
+574;SK3RIA Östersund;Analogue;434.7500;432.7500;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;63,1898;14,7668
+575;SK3RYK_Söderhamn;Analogue;434.7500;433.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,2969;17,0864
+576;SK3GK SandvikenA;Analogue;434.8250;432.8250;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;60,75;16,49
+577;SK3MF NordingråA;Analogue;434.8500;432.8500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;62,9375;18,4583
+578;SK3W Österfärneb;Analogue;434.8500;432.8500;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;60,2916;16,75
+579;SK3LH Örnsköldsv;Analogue;434.8750;432.8750;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;63,2963;18,7318
+580;SK3GW Gävle 70cm;Analogue;434.8750;432.8750;12.5;;;;;;;;127.3;127.3;Disabled;Master;No;No;No;0;Off;No;No;None;60,6422;17,1302
+581;SM3VAC Nyland 70;Analogue;434.9500;433.3500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;63,01;17,74
+582;SK4EA Kopparberg;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,9223;15,0425
+583;SK4KO Sälen 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;85.4;85.4;Disabled;Master;No;No;No;0;Off;No;No;None;61,1532;13,1711
+584;SK4RGL Falun 2m;Analogue;145.6250;145.0250;12.5;;;;;;;;85.4;85.4;Disabled;Master;No;No;No;0;Off;No;No;None;60,6295;15,677
+585;SK4WV Vansbro 2m;Analogue;145.6500;145.0500;12.5;;;;;;;;85.4;85.4;Disabled;Master;No;No;No;0;Off;No;No;None;60,505;14,0315
+586;SK4BX Garphyttan;Analogue;145.6500;145.0500;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;59,3316;14,9309
+587;SK4HV Hagfors 2m;Analogue;145.6750;145.0750;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;60,0225;13,7602
+588;SK4EA Lindesberg;Analogue;145.6875;145.0875;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;59,651;15,133
+589;SK4TL Örebro 2m;Analogue;145.7125;145.1125;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,2448;14,9124
+590;SK4DM Ludvika 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;60,1025;15,13
+591;SK4RQF Årjäng 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,4045;12,1179
+592;SK4RGO Orsa 2m;Analogue;145.7500;145.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,2168;14,5388
+593;SK4RJJ Sunne 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;59,8367;12,8657
+594;SK4RUV Leksand 2;Analogue;145.7750;145.1750;12.5;;;;;;;;85.4;85.4;Disabled;Master;No;No;No;0;Off;No;No;None;60,674;15,0175
+595;SK4RPK Torsby 70;Analogue;434.6250;432.6250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;60,1057;12,9649
+596;SM4JDP Mora 70cm;Analogue;434.7000;432.7000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,0066;14,5028
+597;SK4DM Ludvika 70;Analogue;434.7250;433.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;60,1025;15,13
+598;SK4IL Grums 70cm;Analogue;434.7250;432.7250;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;59,3493;13,0895
+599;SK4RGO Orsa 70cm;Analogue;434.7500;433.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;61,2168;14,5388
+600;SK4RWQ Arvika 70;Analogue;434.7750;432.7750;12.5;;;;;;;;74.4;74.4;Disabled;Master;No;No;No;0;Off;No;No;None;59,7736;12,2336
+601;SK4RVN Borlänge;Analogue;434.8000;432.8000;12.5;;;;;;;;85.4;85.4;Disabled;Master;No;No;No;0;Off;No;No;None;60,4014;15,465
+602;SG5DV Uppsala 2m;Analogue;145.5875;144.9875;12.5;;;;;;;;136.5;136.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,8507;17,6345
+603;SK5BN Norrköping;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,6875;16,43
+604;SK5LW_Eskilstuna;Analogue;145.6125;145.0125;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,229;16,625
+605;SK5RYG_Linköping;Analogue;145.6250;145.0250;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,56;15,542
+606;SM5YMS Åtvidaber;Analogue;145.6625;145.0625;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,2072;15,878
+607;SK5BB Arboga 2m;Analogue;145.6750;145.0750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,6076;15,836
+608;SK5RCQ Kisa 2m;Analogue;145.7000;145.1000;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;57,987;15,6312
+609;SM5RYI Sala 2m;Analogue;145.7125;145.1125;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,938;16,625
+610;SK5AS Linköping;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,3837;15,5645
+611;SK5WR Motala 2m;Analogue;145.7375;145.1375;12.5;;;;;;;;91.5;91.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,5222;15,1309
+612;SK5DB Uppsala 2m;Analogue;145.7500;145.1500;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,8542;17,7927
+613;SK5CN Hultsfred;Analogue;145.7625;145.1625;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,4948;15,8416
+614;SK5UM Flen;Analogue;145.7625;145.1625;12.5;;;;;;;;103.5;103.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,046;16,625
+615;SK5RHQ Västerås;Analogue;145.7750;145.1750;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,605;16,545
+616;SK5AS LinköpingA;Analogue;145.7875;145.1875;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,56;15,542
+617;SK5BN_Norrköping;Analogue;434.6000;432.6000;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,6042;16,125
+618;SA5OHR Norrköpin;Analogue;434.6625;432.6625;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,6053;16,1426
+619;SK5DB Uppsala 70;Analogue;434.7500;432.7500;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,8542;17,7907
+620;SK5RHQ VästeråsA;Analogue;434.7750;432.7750;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,605;16,545
+621;SM5YMS Linköping;Analogue;434.8000;432.8000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,5224;15,5237
+622;SK5LF Linköping;Analogue;434.8250;432.8250;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,3995;15,6381
+623;SM5DWC Södertälj;Analogue;434.8250;432.8250;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,1875;17,625
+624;SK5LW Eskilstuna;Analogue;434.8500;432.8500;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,3934;16,4216
+625;SK5BB Arboga 70c;Analogue;434.8750;432.8750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,6076;15,836
+626;SA5BTT Trosa 70c;Analogue;434.8875;432.8875;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;58,896;17,625
+627;SK5BN Finspång 7;Analogue;434.9250;432.9250;12.5;;;;;;;;107.2;107.2;Disabled;Master;No;No;No;0;Off;No;No;None;58,7292;15,7917
+628;SK5VM Eskilstuna;Analogue;434.9750;432.9750;12.5;;;;;;;;82.5;82.5;Disabled;Master;No;No;No;0;Off;No;No;None;59,3561;16,5001
+629;SK6ROY Kinnekull;Analogue;145.6000;145.0000;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,6;13,41
+630;SK6IF Bokenäs 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,31;11,64
+631;SK6BA Skene 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,5095;12,6
+632;SK6RPE Kungälv 2;Analogue;145.6125;145.0125;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,8564;11,9628
+633;SK6RIC Alingsås;Analogue;145.6250;145.0250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,93;12,5362
+634;SK6JX Falkenberg;Analogue;145.6250;145.0250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;56,9027;12,4888
+635;SK6MA Tidaholm 2;Analogue;145.6375;145.0375;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,13;14,042
+636;SK6RFQ_Guldheden;Analogue;145.6500;145.0500;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,6785;11,9787
+637;SM6UXW_Ulriceham;Analogue;145.6750;145.0750;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,8054;13,5072
+638;SK6RKG HalmstadA;Analogue;145.6750;145.0750;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;56,7614;13,0505
+639;SM6THE Skövde 2m;Analogue;145.6875;145.0875;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,4085;13,9304
+640;SK6DK Varberg 2m;Analogue;145.7000;145.1000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,3025;12,382
+641;SM6VBT Mölndal 2;Analogue;145.7000;145.1000;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,65;12,0166
+642;SK6RJW Kungsback;Analogue;145.7250;145.1250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,4874;12,077
+643;SK6EE Skara 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,3117;13,446
+644;SK6RKI Öckerö 2m;Analogue;145.7500;145.1500;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,7091;11,6431
+645;SK6WW Karlsborg;Analogue;145.7625;145.1625;12.5;;;;;;;;94.8;94.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,5375;14,4434
+646;SK6LK Borås 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,742;13,005
+647;SK6GO Lunden 2m;Analogue;145.7875;145.1875;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,7089;12,0054
+648;SG6WAL Ytterby 2;Analogue;145.7875;145.1875;12.5;;;;;;;;218.1;218.1;Disabled;Master;No;No;No;0;Off;No;No;None;57,8557;11,9019
+649;SK6EE Skara 70cm;Analogue;434.5625;432.5625;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,3117;13,446
+650;SA6BSN Åmål 70cm;Analogue;434.6000;432.6000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;59,0498;12,6888
+651;SK6RIC AlingsåsA;Analogue;434.6250;432.6250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,93;12,5362
+652;SK6RFQ Guldheden;Analogue;434.6500;432.6500;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,6785;11,9787
+653;SM6UXW Ulriceham;Analogue;434.6750;432.6750;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,7923;13,4236
+654;SK6AG Guldheden;Analogue;434.6750;432.6750;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,6785;11,9787
+655;SK6DK Varberg 70;Analogue;434.7000;433.1000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,3025;12,382
+656;SM6VBT Mölndal 7;Analogue;434.7000;432.7000;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,65;12,0166
+657;SK6RJW_Kungsback;Analogue;434.7250;432.7250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,4874;12,077
+658;SM6WSC Trollhätt;Analogue;434.7250;432.7250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,21;12,3353
+659;SA6BXG Kungälv 7;Analogue;434.7375;432.7375;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,9814;12,0462
+660;SK6DQ Älvängen 7;Analogue;434.7500;432.7500;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,95;12,121
+661;SL6BH Halmstad 7;Analogue;434.7500;432.7500;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;56,6875;12,875
+662;SM6UDU Uddevalla;Analogue;434.7750;432.7750;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,3435;11,6704
+663;SK6LK Borås 70cm;Analogue;434.8000;432.8000;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,742;13,005
+664;SK6IF Lysekil 70;Analogue;434.8000;432.8000;12.5;;;;;;;;118.8;118.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,2755;11,4355
+665;SK6EI Skövde 70c;Analogue;434.8250;432.8250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;58,4177;13,8154
+666;SM6SXJ Torup 70c;Analogue;434.8875;432.8875;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,0106;12,9843
+667;SK6QW Mariestad;Analogue;434.9000;432.9000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,7002;13,8253
+668;SK6RPE Kungälv 7;Analogue;434.9000;432.9000;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,8564;11,9628
+669;SA6AR Angered 70;Analogue;434.9250;432.9250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,8125;12,0417
+670;SK6RKG Halmstad;Analogue;434.9250;432.9250;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;56,7614;13,0505
+671;SM6CYJ Kinnekull;Analogue;434.9500;432.9500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;58,6;13,41
+672;SK6BA Skene 70cm;Analogue;434.9500;432.9500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,5095;12,6
+673;SK6RDG Guldheden;Analogue;434.9750;432.9750;12.5;;;;;;;;114.8;114.8;Disabled;Master;No;No;No;0;Off;No;No;None;57,678;11,9783
+674;SK7RFL_Algutsrum;Analogue;145.6000;145.0000;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,6828;16,5646
+675;SK7GH Värnamo 2m;Analogue;145.6000;145.0000;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,1816;14,0785
+676;SK7RNQ Vitaby 2m;Analogue;145.6125;145.0125;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,6955;14,16
+677;SK7RN Mörbylånga;Analogue;145.6250;145.0250;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,5151;16,4392
+678;SK7IJ Vetlanda 2;Analogue;145.6250;145.0250;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,499;15,244
+679;SM7HZK Moheda 2m;Analogue;145.6375;145.0375;12.5;;;;;;;;225.7;225.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,9987;14,5844
+680;SK7REE Söderåsen;Analogue;145.6500;145.0500;12.5;;;;;;;;225.7;225.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,0517;13,1047
+681;SK7RFH Nässjö 2m;Analogue;145.6500;145.0500;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,65;14,7
+682;SK7RN Borgholm 2;Analogue;145.6625;145.0625;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,8406;16,6658
+683;SK7REZ Blentarp;Analogue;145.6750;145.0750;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,5411;13,5875
+684;SK7HW Växjö 2m;Analogue;145.6750;145.0750;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,8666;14,8833
+685;SK7JD Västervik;Analogue;145.6750;145.0750;12.5;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;57,7567;16,6182
+686;SL7ZXW Nybro 2m;Analogue;145.6875;145.0875;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;56,6875;15,7917
+687;SK7RGM Olofström;Analogue;145.7000;145.1000;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,2292;14,4583
+688;SK7MO Ljungby 2m;Analogue;145.7250;145.1250;12.5;;;;;;;;94.8;94.8;Disabled;Master;No;No;No;0;Off;No;No;None;56,9026;13,946
+689;SK7RIH Oskarsham;Analogue;145.7250;145.1250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,26;16,4
+690;SK7JL Spjutsbygd;Analogue;145.7250;145.1250;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,3121;15,5971
+691;SK7BQ Kristianst;Analogue;145.7375;145.1375;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,005;14,065
+692;SK7RN Böda 2m;Analogue;145.7500;145.1500;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,2629;17,0297
+693;SK7RFJ Karlskron;Analogue;145.7500;145.1500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;56,2;15,62
+694;SK7RGI Jönköping;Analogue;145.7500;145.1500;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,6802;14,082
+695;SK7RBK Hässlehol;Analogue;145.7625;145.1625;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,2903;13,7194
+696;SK7REP Lund 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,697;13,284
+697;SK7UO Emmaboda 2;Analogue;145.7750;145.1750;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;56,632;15,545
+698;SM7NTJ Aneby 2m;Analogue;145.7750;145.1750;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,8542;14,623
+699;SK7RFL Algutsrum;Analogue;434.6000;432.6000;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,6828;16,5646
+700;SK7GH Värnamo 70;Analogue;434.6000;432.6000;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,2207;14,0336
+701;SK7IJ Vetlanda 7;Analogue;434.6250;432.6250;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,499;15,244
+702;SA7BVQ Eslöv 70c;Analogue;434.7000;432.7000;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,8471;13,279
+703;SK7RIH_Oskarsham;Analogue;434.7250;432.7250;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,26;16,4
+704;SK7RJL Lund 70cm;Analogue;434.7250;432.7250;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,7292;13,2083
+705;SM7NTJ Aneby 70c;Analogue;434.7250;432.7250;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,8542;14,623
+706;SK7FK Karlskrona;Analogue;434.7500;432.7500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;56,2;15,62
+707;SK7RGI Huskvarna;Analogue;434.7500;432.7500;12.5;;;;;;;;156.7;156.7;Disabled;Master;No;No;No;0;Off;No;No;None;57,8105;14,3
+708;SK7RN Borgholm 7;Analogue;434.7750;432.7750;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,8406;16,6658
+709;SM7GYT Eslöv 70c;Analogue;434.8125;432.8125;12.5;;;;;;;;88.5;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;55,8552;13,2893
+710;SK7EM Blentarp 7;Analogue;434.8500;432.8500;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,5735;13,5235
+711;SK7RFH Nässjö 70;Analogue;434.8500;432.8500;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;57,65;14,7
+712;SK7ROQ Gladsax 7;Analogue;434.8875;432.8875;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;55,5611;14,2808
+713;SK7RRV Lönsboda;Analogue;434.9000;433.3000;12.5;;;;;;;;;;Disabled;Master;No;No;No;0;Off;No;No;None;56,4032;14,2863
+714;SM7JPI Svängsta;Analogue;434.9250;432.9250;12.5;;;;;;;;79.7;79.7;Disabled;Master;No;No;No;0;Off;No;No;None;56,2676;14,7692
+715;SM0WIU Högdalen;Digital;145.5750;144.9750;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,249;18,0719
+716;SK0EN Älmsta 2m;Digital;145.7375;145.1375;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,9733;18,8097
+717;SK0RMQ Tyresö 70;Digital;434.5125;432.5125;;12;1;;DMR Plus;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,2975;18,173
+718;SA0AZT Vallentun;Digital;434.5500;432.5500;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,5833;18,3333
+719;SK0QO Haninge;Digital;434.5625;432.5625;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,1704;18,1663
+720;SK0EN Älmsta 70c;Digital;434.6000;432.6000;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,9733;18,8097
+721;SM0WIU Nynäshamn;Digital;434.6125;432.6125;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,909;17,946
+722;SK0RMT Täby 70cm;Digital;434.7375;432.7375;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,445;18,075
+723;SK0RYG U.Väsby 7;Digital;434.7625;432.7625;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,523;17,9251
+724;SA0AZT Norrtälje;Digital;434.8125;432.8125;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,7642;18,712
+725;SM0WIU Dalarö 70;Digital;434.8375;432.8375;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,1353;18,4106
+726;SM0WIU Botkyrka;Digital;434.8750;432.8750;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,2507;17,879
+727;SM0WIU Södertälj;Digital;434.8750;432.8750;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,1903;17,6178
+728;SK0RPF Sigtuna 7;Digital;434.8875;432.8875;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,6368;17,8088
+729;SK0NN Johannesho;Digital;434.9250;432.9250;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,2942;18,073
+730;SK0RYG Kista 70c;Digital;434.9500;432.9500;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,4;17,95
+731;SK0RYG Stockholm;Digital;434.9625;432.9625;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,3345;18,0636
+732;SK0VR Värmdö 70c;Digital;434.9750;432.9750;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,3134;18,4254
+733;SK0SX Kista 70cm;Digital;434.9875;432.9875;;0;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,4;17,95
+734;SK2AU_Skellefteå;Digital;145.5875;144.9875;;;;;;;;;;;;Master;No;No;No;0;Off;No;No;None;64,7788;20,9541
+735;SK2HG Seskarö 2m;Digital;145.6750;145.0750;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,7318;23,7242
+736;SK2HG Kalix 2m;Digital;145.7250;145.1250;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,92;22,833
+737;SK2RGJ Kiruna 70;Digital;434.5125;432.5125;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;67,8314;20,1876
+738;SK2HG Kalix-Vatt;Digital;434.7250;432.7250;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,8596;23,1535
+739;SK2RJH Kalix 70c;Digital;434.7500;432.7500;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,92;22,833
+740;SK2CI Boden 70cm;Digital;434.8000;432.8000;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,8204;21,6003
+741;SK2AZ Piteå 70cm;Digital;434.8500;432.8500;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,3116;21,2746
+742;SK2DR Luleå 70cm;Digital;434.9000;432.9000;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,6141;22,2024
+743;SK2AT Vännäs 70c;Digital;434.9750;432.9750;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;63,975;19,964
+744;SK2HG Kalix 70cm;Digital;434.9875;432.9875;;2;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;65,8496;23,176
+745;SK3WH Örnsköldsv;Digital;145.5750;144.9750;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;63,2963;18,7318
+746;SK3RHU Hudiksval;Digital;145.7125;145.1125;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;61,723;17,1
+747;SM3YFX Föllinge;Digital;434.5250;432.5250;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;63,67;14,607
+748;SK3JR ÖstersundD;Digital;434.5625;432.5625;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;63,1047;14,6022
+749;SK3RHU_Hudiksval;Digital;434.5750;432.5750;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;61,723;17,1
+750;SK3GK Gävle 70cm;Digital;434.7000;432.7000;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,6402;17,1335
+751;SK3RFG_Sundsvall;Digital;434.8000;432.8000;;1;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;62,3785;17,202
+752;SK3RFG.Sundsvall;Digital;434.9875;432.9875;;3;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;62,3003;17,3635
+753;SK4RKD Karlskoga;Digital;145.7500;145.1500;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,378;14,435
+754;SM4WIU Leksand 7;Digital;434.6125;432.6125;;;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,7488;15,0725
+755;SK4RGL Falun 70c;Digital;434.6250;432.6250;;1;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,6295;15,677
+756;SA4BHE Smedjebac;Digital;434.6375;432.6375;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,1596;15,3995
+757;SK4WV Vansbro 70;Digital;434.6625;432.6625;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,505;14,0315
+758;SK4TL Örebro 70c;Digital;434.7250;432.7250;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,2552;15,1857
+759;SK4KR Karlskoga;Digital;434.8000;432.8000;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,3175;14,4812
+760;SK4BW Borlänge 7;Digital;434.8500;432.8500;;12;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;60,4014;15,465
+761;SA4BNA Arvika 70;Digital;434.9750;432.9750;;4;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,5793;12,5401
+762;SK5UM Flen 2m;Digital;145.6375;145.0375;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,0448;16,6282
+763;SA5BJM Uppsala 7;Digital;434.5125;432.5125;;1;1;;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,9774;17,594
+764;SK5RYG Linköping;Digital;434.5125;432.5125;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,56;15,542
+765;SG5BCG Knivsta 7;Digital;434.5250;432.5250;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,7255;17,7868
+766;SG5DV Uppsala 70;Digital;434.5875;432.5875;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,8507;17,6345
+767;SA5HAV Uppsala 7;Digital;434.6375;432.6375;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,9512;17,82
+768;SM5DWC Linköping;Digital;434.8750;432.8750;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,5643;15,5266
+769;SL5ZYT Norrköpin;Digital;434.9500;432.9500;;5;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,6875;16,2917
+770;SK6IF Tanumshede;Digital;145.5750;144.9750;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,7239;11,3252
+771;SK6RKI Kortedala;Digital;145.5875;144.9875;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,7613;12,0373
+772;SK6IF Kungshamn;Digital;145.6750;145.0750;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,3569;11,257
+773;SK6RFP Bengtsfor;Digital;145.7000;145.1000;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,0053;12,2525
+774;SK6QA Stenungsun;Digital;145.7125;145.1125;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,0823;11,9943
+775;SL6ZAQ Uddevalla;Digital;145.7375;145.1375;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,2964;11,8584
+776;SK6DW Trollhätta;Digital;145.7625;145.1625;;6;1;;;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,275;12,29
+777;SK6DG Alingsås 7;Digital;434.5375;432.5375;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,9151;12,5195
+778;SM6TKT Borås 70c;Digital;434.5500;432.5500;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,742;13,005
+779;SK6QA_Stenungsun;Digital;434.5625;432.5625;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,0564;11,7428
+780;SL6ZYW Bengtsfor;Digital;434.6875;432.6875;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;59,0053;12,2525
+781;SK6AG GuldhedenD;Digital;434.7875;432.7875;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,6785;11,9787
+782;SA6RP Floda 70cm;Digital;434.8250;432.8250;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,809;12,3654
+783;SK6RKI Öckerö 70;Digital;434.8500;432.8500;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,7091;11,6431
+784;SK6DW_Trollhätta;Digital;434.8750;432.8750;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,275;12,29
+785;SA6APY Skara 70c;Digital;434.9875;432.9875;;6;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;58,4;13,46
+786;SK7RNQ Gladsax 2;Digital;145.5750;144.9750;;7 ;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,5611;14,2808
+787;SG7RFH Nässjö 2m;Digital;145.5875;144.9875;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,65;14,7
+788;SK7RMQ Linderöd;Digital;145.5875;144.9875;;14;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,9166;13,75
+789;SK7RQX Hallandså;Digital;145.7875;145.1875;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,3711;12,9892
+790;SK7BQ_Kristianst;Digital;434.5250;432.5250;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,005;14,065
+791;SK7RFL.Algutsrum;Digital;434.5500;432.5500;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,6828;16,5646
+792;SK7AF Eksjö 70cm;Digital;434.5625;432.5625;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,647;15,018
+793;SK7RJL Lund;Digital;434.5875;432.5875;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,7348;13,2308
+794;SG7BNT Bruzaholm;Digital;434.6000;432.6000;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,6436;15,2712
+795;SK7REE Helsingbo;Digital;434.6000;432.6000;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,0362;12,704
+796;SK7RPQ Malmö 70c;Digital;434.6125;432.6125;;7 ;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,5781;13,0089
+797;SK7REE_Söderåsen;Digital;434.6500;432.6500;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,0517;13,1047
+798;SA7BJF Södra Vi;Digital;434.6625;432.6625;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,7423;15,8038
+799;SK7JD VästervikD;Digital;434.6750;432.6750;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,7937;16,5758
+800;SK7HW Växjö 70cm;Digital;434.7000;432.7000;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,8666;14,8833
+801;SK7RJL Malmö 70c;Digital;434.7750;432.7750;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,5978;12,9846
+802;SK7DL Emmaboda 7;Digital;434.7875;432.7875;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,6313;15,5049
+803;SG7RFH Nässjö 70;Digital;434.9000;432.9000;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,65;14,7
+804;SA7BIK Höör 70cm;Digital;434.9125;432.9125;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,9567;13,5661
+805;SA7CCO Sjöbo 70c;Digital;434.9250;432.9250;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;55,6408;13,709
+806;SM7NTJ Aneby;Digital;434.9250;432.9250;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,8542;14,623
+807;SK7RBK Bjärnum 7;Digital;434.9500;432.9500;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,2903;13,7196
+808;SK7REE Örkelljun;Digital;434.9750;432.9750;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;56,28;13,27
+809;SK7RGI_Jönköping;Digital;434.9750;432.9750;;7;1;;Brandmeister;None;Off;Off;;;;Master;No;No;No;0;Off;No;No;None;57,7638;14,2399
