@@ -126,7 +126,7 @@ with open(args.output + '/Channels.csv', 'w') as outfile:
 
                     # analogue channel fields
                     else:
-                        channel['Bandwidth (kHz)'] = '12.5'
+                        channel['Bandwidth (kHz)'] = '25'
                         
                         tone_pattern = re.compile('([0-9]+\.[0-9])')
                         tone_match = tone_pattern.search(row['access'])
