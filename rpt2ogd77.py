@@ -114,15 +114,18 @@ with open(args.output + '/Channels.csv', 'w') as outfile:
                         cc_idx = row['access'].find('CC')
                         if cc_idx != -1:
                             channel['Colour Code'] = row['access'][cc_idx+3:cc_idx+5]
+                        else:
+                            print("Warning: could not find DMR ColorCode for " + name + " " + channel['Rx Frequency'] + ", using disctrict number: " + str(district))
+                            channel['Colour Code'] = district
 
-                            channel['Timeslot'] = 1
+                        channel['Timeslot'] = 2
 
-                            net = row['network'] if 'BM' not in row['network'] else 'Brandmeister'
-                            channel['TG List'] = net if not 'Brandmeister' in net else 'Brandmeister'
+                        net = row['network'] if 'BM' not in row['network'] else 'Brandmeister'
+                        channel['TG List'] = net if not 'Brandmeister' in net else 'Brandmeister'
 
-                            channel['DMR ID'] = 'None'
-                            channel['TS1_TA_Tx'] = 'Off'
-                            channel['TS2_TA_Tx ID'] = 'Off'
+                        channel['DMR ID'] = 'None'
+                        channel['TS1_TA_Tx'] = 'Off'
+                        channel['TS2_TA_Tx ID'] = 'Off'
 
                     # analogue channel fields
                     else:
