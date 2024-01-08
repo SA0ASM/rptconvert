@@ -205,12 +205,12 @@ with open(args.output + '/Channels.csv', 'w') as outfile:
 
 # create Zones to be populated with channels
 zones = dict()
-zones['All 2m DMR'] = list()
-zones['All 70cm DMR'] = list()
+zones['All 2m DMR Rpts'] = list()
+zones['All 70cm DMR Rpt'] = list()
 for district in valid_districts:
-    zones['SM{} All Channels'.format(district)] = list()
-    zones['SM{} Analogue'.format(district)] = list()
-    zones['SM{} DMR'.format(district)] = list()
+    zones['SM{} All Repeaters'.format(district)] = list()
+    zones['SM{} FM Repeaters'.format(district)] = list()
+    zones['SM{} DMR Repeaters'.format(district)] = list()
 
 # read the newly created file to automatically populate Zones
 with open(args.output + '/Channels.csv', 'r') as chanfile:
@@ -218,24 +218,24 @@ with open(args.output + '/Channels.csv', 'r') as chanfile:
 
             name = row['Channel Name'].strip()
             district = name[DN_OFF]
-            mode = 'DMR' if 'Digital' in row['Channel Type'] else 'Analogue'
+            mode = 'DMR' if 'Digital' in row['Channel Type'] else 'FM'
 
             # only add channels named with district numerals to Zones
             if district.isnumeric():
 
-                zones['SM{} {}'.format(district, mode)].append(name)
-                zones['SM{} All Channels'.format(district)].append(name)
-                if len(zones['SM{} All Channels'.format(district)]) > 80:
-                    print('Warning: Zone "SM{} All Channels" has more than 80 entries!'.format(district))
+                zones['SM{} {} Repeaters'.format(district, mode)].append(name)
+                zones['SM{} All Repeaters'.format(district)].append(name)
+                if len(zones['SM{} All Repeaters'.format(district)]) > 80:
+                    print('Warning: Zone "SM{} All Repeaters" has more than 80 entries!'.format(district))
 
                 if mode == 'DMR':
                     if row['Rx Frequency'][0] == '1':
-                        zones['All 2m DMR'].append(name)
-                        if len(zones['All 2m DMR']) > 80:
+                        zones['All 2m DMR Rpts'].append(name)
+                        if len(zones['All 2m DMR Rpts']) > 80:
                             print('Warning: Zone "All 2m DMR" has more than 80 entries!')
                     if row['Rx Frequency'][0] == '4':
-                        zones['All 70cm DMR'].append(name)
-                        if len(zones['All 70cm DMR']) > 80:
+                        zones['All 70cm DMR Rpt'].append(name)
+                        if len(zones['All 70cm DMR Rpt']) > 80:
                             print('Warning: Zone "All 70cm DMR" has more than 80 entries!')
 
 # write Zones.csv file for import into OpenGD77 CPS
