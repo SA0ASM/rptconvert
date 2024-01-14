@@ -24,6 +24,7 @@ Channel Number;Channel Name;Channel Type;Rx Frequency;Tx Frequency;Bandwidth (kH
 313;VHF Jakt Kanal 4;Analogue;155.5250;155.5250;25;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
 314;VHF Jakt Kanal 5;Analogue;156.0000;156.0000;25;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
 315;VHF Jakt Kanal 6;Analogue;155.4000;155.4000;25;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
+316;VHF Jakt Kanal 7;Analogue;155.4500;155.4500;25;;;;;;;;;88.5;Disabled;Master;No;No;No;0;Off;No;No;None;;
 501;SL0ZS Västberga;Analogue;145.6000;145.0000;25;;;;;;;;123.0;123.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,298;17,99
 502;SK0RDZ Brottby 2;Analogue;145.6500;145.0500;25;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,5753;18,2634
 503;SM0MMO Tullinge;Analogue;145.6625;145.0625;25;;;;;;;;77.0;77.0;Disabled;Master;No;No;No;0;Off;No;No;None;59,2255;17,9413
