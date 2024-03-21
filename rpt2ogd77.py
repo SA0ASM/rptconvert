@@ -40,7 +40,7 @@ if args.home and args.home not in valid_districts:
         sys.exit()
 
 # create Channels.csv file for import into OpenGD77 CPS
-with open(args.output + '/Channels.csv', 'w') as outfile:
+with open(args.output + '/Channels.csv', 'w', encoding='utf-8') as outfile:
 
     # OpenGD77 CPS Channel.csv field names 
     fieldnames = ['Channel Number', 'Channel Name', 'Channel Type', 'Rx Frequency',
@@ -55,7 +55,7 @@ with open(args.output + '/Channels.csv', 'w') as outfile:
 
     # add manually configured channels (id < 500) to output file
     if args.custom:
-        with open(args.custom, 'r') as custfile:
+        with open(args.custom, 'r', encoding='utf-8') as custfile:
             for row in csv.DictReader(custfile, fieldnames, delimiter=';'):
                 name = row['Channel Name']
                 if int(row['Channel Number']) > 499:
@@ -65,7 +65,7 @@ with open(args.output + '/Channels.csv', 'w') as outfile:
 
     # read channels from SSA repeater database
     channels = dict() 
-    with open(args.filename, 'r') as rptfile:
+    with open(args.filename, 'r', encoding='utf-8') as rptfile:
         for row in csv.DictReader(rptfile):
 
             # only process QRV repeaters from single-digit districts
@@ -212,7 +212,7 @@ for district in valid_districts:
     zones['SM{} DMR Repeaters'.format(district)] = list()
 
 # read the newly created file to automatically populate Zones
-with open(args.output + '/Channels.csv', 'r') as chanfile:
+with open(args.output + '/Channels.csv', 'r', encoding='utf-8') as chanfile:
         for row in csv.DictReader(chanfile, dialect='excel', delimiter=';'):
 
             name = row['Channel Name'].strip()
@@ -238,7 +238,7 @@ with open(args.output + '/Channels.csv', 'r') as chanfile:
                             print('Warning: Zone "All 70cm DMR" has more than 80 entries!')
 
 # write Zones.csv file for import into OpenGD77 CPS
-with open(args.output + '/Zones.csv', 'w') as outfile:
+with open(args.output + '/Zones.csv', 'w', encoding='utf-8') as outfile:
 
     # OpenGD77 CPS Zones.csv field names 
     fieldnames = ['Zone Name']
