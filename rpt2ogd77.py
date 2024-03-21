@@ -1,6 +1,5 @@
 import csv, re, argparse, sys
 from io import SEEK_SET
-from curses.ascii import isalnum
 from decimal import Decimal
 
 # district numeral offset in name, must be changed if name structure changes
