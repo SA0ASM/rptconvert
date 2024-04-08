@@ -151,8 +151,8 @@ with open(args.output + '/Channels.csv', 'w', encoding='utf-8') as outfile:
                     channel['No Eco'] = 'No'
                     channel['APRS'] = 'None'
 
-                    channel['Latitude'] = row['lat'].replace('.',',')
-                    channel['Longitude'] = row['lng'].replace('.',',')
+                    channel['Latitude'] = row['lat'].replace(',','.')
+                    channel['Longitude'] = row['lng'].replace(',','.')
 
                     # make sure channel name is unique as OpenGD77 CPS doesn't like duplicate names
                     while name in channels:
